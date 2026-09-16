@@ -6,8 +6,3 @@ Simple local gallery for Android.
 
 * **Languages:** Java & Kotlin
 * **Platform:** Android
-* **Development Environment:** Sketchware Pro
-
-# APK
-
-In the **Releases** page.

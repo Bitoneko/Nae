@@ -20,7 +20,7 @@ A simple local gallery for Android, designed for browsing and managing images an
 Nae Gallery is currently in development.
 
 <p align="center">
-  <a href="https://github.com/Bitoneko/Nae-Gallery/releases">
+  <a href="https://github.com/Bitoneko/Nae/releases">
     <img src="https://img.shields.io/badge/Download_on_GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="Download on GitHub">
   </a>
 </p>

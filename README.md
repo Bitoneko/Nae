@@ -9,7 +9,6 @@ A simple local gallery for Android, designed for browsing and managing images an
 - Media information
 - Delete and restore media
 - Trash support
-- Material 3 interface
 
 ## Tech Stack
 

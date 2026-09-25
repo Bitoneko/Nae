@@ -12,7 +12,7 @@ A simple local gallery for Android, designed for browsing and managing images an
 
 ## Tech Stack
 
-- **Languages:** Java
+- **Languages:** Java & Kotlin
 - **Platform:** Android
 
 ## Project Status

@@ -17,7 +17,7 @@ A simple local gallery for Android, designed for browsing and managing images an
 
 ## Project Status
 
-Nae Gallery is currently in development.
+Nae is currently in development.
 
 <p align="center">
   <a href="https://github.com/Bitoneko/Nae/releases">
